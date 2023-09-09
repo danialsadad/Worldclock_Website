@@ -1,0 +1,15 @@
+/* Set the background color of the entire page to black */
+body {
+    background-color: #08a0ab; /* Black background color */
+    color: #000000; /* Text color for the entire page */
+}
+
+/* Style the footer */
+footer {
+    background-color: #082d35; /* Background color for the footer */
+    color: #cdf1fe; /* Text color for the footer */
+    text-align: center;
+    padding: 10px 0; /* Add padding for spacing */
+    position: sticky;
+    bottom: 0; /* Stick it to the bottom of the viewport */
+}
